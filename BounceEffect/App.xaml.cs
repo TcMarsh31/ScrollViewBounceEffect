@@ -11,6 +11,7 @@ namespace BounceEffect
             InitializeComponent();
 
             MainPage = new BounceTabbedPage();
+            //sd
         }
 
         protected override void OnStart()
